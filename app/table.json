@@ -1,0 +1,128 @@
+[{
+	"renderingEngine": "Trident",
+	"browser": "Internet Explorer 4.0",
+	"platform": "Win 95+",
+	"engineVersion": "4",
+	"cssGrade": "X",
+	"id": "1"
+},
+{
+	"renderingEngine": "Trident",
+	"browser": "Internet Explorer 4.0",
+	"platform": "Win 95+",
+	"engineVersion": "4",
+	"cssGrade": "X",
+	"id": "2"
+},
+{
+	"renderingEngine": "Gecko",
+	"browser": "Firefox 1.0",
+	"platform": "Win 98+ / OSX.2+",
+	"engineVersion": "1.7",
+	"cssGrade": "A",
+	"id": "3"
+},
+{
+	"renderingEngine": "Webkit",
+	"browser": "Safari 1.2",
+	"platform": "OSX.3",
+	"engineVersion": "125.5",
+	"cssGrade": "A",
+	"id": "4"
+},
+{
+	"renderingEngine": "Presto",
+	"browser": "Opera 7.0",
+	"platform": "Win 95+ / OSX.1+",
+	"engineVersion": "-",
+	"cssGrade": "A",
+	"id": "5"
+},
+{
+	"renderingEngine": "Presto",
+	"browser": "Opera 8.0",
+	"platform": "Win 95+ / OSX.2+",
+	"engineVersion": "-",
+	"cssGrade": "A",
+	"id": "6"
+},
+{
+	"renderingEngine": "KHTML",
+	"browser": "Konqureror 3.5",
+	"platform": "KDE 3.5",
+	"engineVersion": "3.5",
+	"cssGrade": "A",
+	"id": "7"
+},
+{
+	"renderingEngine": "Misc",
+	"browser": "Links",
+	"platform": "Text only",
+	"engineVersion": "-",
+	"cssGrade": "X",
+	"id": "8"
+},
+{
+	"renderingEngine": "Trident",
+	"browser": "Internet Explorer 4.0",
+	"platform": "Win 95+",
+	"engineVersion": "4",
+	"cssGrade": "X",
+	"id": "9"
+},
+{
+	"renderingEngine": "Trident",
+	"browser": "Internet Explorer 4.0",
+	"platform": "Win 95+",
+	"engineVersion": "4",
+	"cssGrade": "X",
+	"id": "10"
+},
+{
+	"renderingEngine": "Gecko",
+	"browser": "Firefox 1.0",
+	"platform": "Win 98+ / OSX.2+",
+	"engineVersion": "1.7",
+	"cssGrade": "A",
+	"id": "11"
+},
+{
+	"renderingEngine": "Webkit",
+	"browser": "Safari 1.2",
+	"platform": "OSX.3",
+	"engineVersion": "125.5",
+	"cssGrade": "A",
+	"id": "12"
+},
+{
+	"renderingEngine": "Presto",
+	"browser": "Opera 7.0",
+	"platform": "Win 95+ / OSX.1+",
+	"engineVersion": "-",
+	"cssGrade": "A",
+	"id": "13"
+},
+{
+	"renderingEngine": "Presto",
+	"browser": "Opera 8.0",
+	"platform": "Win 95+ / OSX.2+",
+	"engineVersion": "-",
+	"cssGrade": "A",
+	"id": "14"
+},
+{
+	"renderingEngine": "KHTML",
+	"browser": "Konqureror 3.5",
+	"platform": "KDE 3.5",
+	"engineVersion": "3.5",
+	"cssGrade": "A",
+	"id": "15"
+},
+{
+	"renderingEngine": "Misc",
+	"browser": "Links",
+	"platform": "Text only",
+	"engineVersion": "-",
+	"cssGrade": "X",
+	"id": "16"
+}]
