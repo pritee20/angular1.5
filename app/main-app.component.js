@@ -7,6 +7,7 @@
 			{path:'/home', component: 'home', name:'Home'},
 			{path:'/about', component:'about', name: 'AboutUs'},
 			{path:'/detail/:id/...', component: 'detail', name: 'Details'},
+			{path:'/contact', component:'contact', name: 'Contact'},
 			{path:'/**', redirectTo:['Home']}
 			]
 		});
